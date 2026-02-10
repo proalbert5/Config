@@ -5,4 +5,5 @@ vless://a924ceae-bb71-4ee1-a2e8-a2e39329d293@185.143.235.129:443?type=ws&encrypt
 vless://2e5f8776-96fc-4b78-b7eb-d1a3ed27be4d@185.143.235.129:8443?type=xhttp&encryption=none&path=%2Fblogfa&host=blog.aimsynctm.com&mode=packet-up&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=blog.aimsynctm.com#mb0x42a4
 vless://351db6cd-39d4-4df1-9593-cb5f280f86c8@185.143.235.129:8880?type=ws&encryption=none&path=%2Fblog&host=blog.aimsynctm.com&security=none#rswjj5t8
 vless://db711c07-7086-4b7d-82fc-5912affa853b@185.143.235.129:2086?type=xhttp&encryption=none&path=%2FH%3Fed%3D2560&host=blog.aimsynctm.com&mode=packet-up&security=none#0n9by3gy
+trojan://1rvplyd6d6@185.143.235.129:2095?type=ws&path=%2FH%3Fed%3D2095&host=blog.aimsynctm.com&security=none#t3qeapyp
 https://empty-hat-7b5a.kakvan2011.workers.dev/sub/normal/PJ_SMLOYDdp_e9_I?app=xray#%F0%9F%92%A6%20BPB%20Normal
