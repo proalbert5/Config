@@ -5,4 +5,4 @@ vless://b1efe324-df6a-464a-abca-c6fb5f1b0e0c@zero.aimsynctm.com:8080?type=httpup
 vless://edf910fb-fa1d-46cc-83e7-a5b7eec8f4b5@zero.aimsynctm.com:2083?type=ws&encryption=none&path=%2FH%3Fed%3D2560&host=&security=tls&fp=chrome&alpn=h2&sni=blog.aimsynctm.com#2yobsgok
 vless://db711c07-7086-4b7d-82fc-5912affa853b@zero.aimsynctm.com:2086?type=xhttp&encryption=none&path=%2FH%3Fed%3D2560&host=blog.aimsynctm.com&mode=packet-up&security=none#0n9by3gy
 vless://2b4c7b1b-ed9f-4fd8-89a2-9b5fb0c14f19@zero.aimsynctm.com:2096?type=httpupgrade&encryption=none&path=%2Fcdn&host=&security=tls&fp=chrome&alpn=http%2F1.1&sni=blog.aimsynctm.com#j9239jke
-vless://9d4054ad-cdaa-4db6-8ce1-f57fe712b181@zero.aimsynctm.com:443?type=ws&encryption=none&path=%2Fcdn&host=blog.aimsynctm.com&security=tls&fp=chrome&alpn=http%2F1.1&sni=blog.aimsynctm.com#qbosgzy6
+trojan://RJkEAUEMcC@zero.aimsynctm.com:443?type=ws&path=%2Fcdn%3Fed%3D2560&host=blog.aimsynctm.com&security=tls&fp=firefox&alpn=http%2F1.1&sni=blog.aimsynctm.com#pakanl01
